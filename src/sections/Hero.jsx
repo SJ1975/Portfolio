@@ -44,7 +44,7 @@ const Hero = () => {
           }}
         >
           <motion.a
-            href="https://drive.google.com/file/d/16oYW0jHYGQ7DUyqB17pam7gi_iIwJfCd/view?usp=sharing"
+            href="https://drive.google.com/file/d/16oYW0jHYGQ7DUyqB17pam7gi_iIwJfCd/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             variants={{
